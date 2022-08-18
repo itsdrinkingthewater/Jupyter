@@ -27,7 +27,7 @@ deprecated-notebooks Older, deprecated notebooks
 There are also support folders - source and utils
 
 Full list of notebooks
-<style> .nb_table, th, td { border: 1px solid; text-align: left; border-collapse=collapse; margin-left: auto; margin-right: auto; } .width-f { width: 10px !important; } .width-nb { width: 300px !important; } </style>
+
 Notebook	Folder
 A Getting Started Guide For Azure Sentinel ML Notebooks.ipynb	
 A Getting Started Guide For PowerShell AML Notebooks.ipynb	
