@@ -1,4 +1,6 @@
-What is it?
+Azure Sentinel Readable Secops Jupyter Notebooks
+
+What are they?
 Jupyter notebooks allow you to supercharge your threat hunting and investigation by enabling documents that contain live code, visualizations, and narrative text. These documents can be codified and served for specialized visualizations, an investigation guide, and sophisticated threat hunting.
 
 Additionally, notebooks can be used in security big data analytics for fast data processing on large datasets.
